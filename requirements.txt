@@ -1,0 +1,20 @@
+# Jupyter
+# notebook # Not used for streamlit app
+# ipywidgets # Not used for streamlit app
+
+# PDF Converter
+# pdfplumber # Not used for streamlit app
+PyPDF2
+
+# ML
+nltk
+transformers[torch]
+
+# Data
+numpy
+# Pillow # Not used for streamlit app
+
+# Utils
+tqdm
+streamlit
+requests
